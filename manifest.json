@@ -1,0 +1,10 @@
+{
+  "name": "First ext",
+  "version": "1.0",
+  "description": "Extensão google, apenas um teste.",
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+
+  "manifest_version": 2
+}
